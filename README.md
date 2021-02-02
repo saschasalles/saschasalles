@@ -27,7 +27,7 @@
 <a href="https://instagram.com/iamsaschasalles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamissaschasalles" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Prefered Technologies: </h3>
+<h3 align="left">Favorite Technologies: </h3>
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 <a href="https://vapor.codes" target="_blank"> <img src="https://avatars.githubusercontent.com/u/17364220?s=200&v=4" alt="swift" width="40" height="40"/> </a>  
