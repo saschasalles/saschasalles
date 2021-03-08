@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.saschasalles.com/experiences](https://www.saschasalles.com/experiences)
 
-- ⚡ Fun fact **All my examples files are based on Harry Potter stories 😛**
+- ⚡ Fun fact **All my examples files are based on Harry Potter stories ⚡️😛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
