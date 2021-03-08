@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sascha Salles</h1>
-<h3 align="center">A passionate Apple platforms developer from France</h3>
+<h3 align="center">A passionate iOS Engineer from France</h3>
 
 <p align="left"> <a href="https://twitter.com/sascha_salles" target="blank"><img src="https://img.shields.io/twitter/follow/sascha_salles?logo=twitter&style=for-the-badge" alt="sascha_salles" /></a> </p>
 
