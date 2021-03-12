@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [LabPlatform API](https://github.com/saschasalles/LabPlatformAPI)
 
-- 🌱 I’m currently learning **Swift, Objective-C, SwiftUI, UIKit, CoreData, CloudKit, Vapor, SwiftNIO, AVFoundation, ARKit**
+- 🌱 I’m currently learning **Swift, Objective-C, SwiftUI, UIKit, CoreData, CloudKit, Vapor, SwiftNIO, AVFoundation, ARKit, CoreML**
 
 - 👯 I’m looking to collaborate on [Vapor](https://github.com/vapor/vapor)
 
 - 👨‍💻 All of my projects are available at [https://www.saschasalles.com/projects](https://www.saschasalles.com/projects)
 
-- 💬 Ask me about **Swift, SwiftUI, React, Python**
+- 💬 Ask me about **Swift, SwiftUI, Obj-C, React, NextJS, Python**
 
 - 📫 How to reach me **sascha.salles@icloud.com**
 
