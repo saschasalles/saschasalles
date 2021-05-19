@@ -11,11 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.saschasalles.com/projects](https://www.saschasalles.com/projects)
 
-- 💬 Ask me about **Swift, SwiftUI, Obj-C, React, NextJS, Python**
-
 - 📫 How to reach me **sascha.salles@icloud.com**
-
-- 📄 Know about my experiences [https://www.saschasalles.com/experiences](https://www.saschasalles.com/experiences)
 
 - ⚡ Fun fact **All my examples files are based on Harry Potter stories ⚡️😛**
 
