@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sascha Salles</h1>
 <h3 align="center">iOS Engineer / Student 🇫🇷</h3>
+<h3 align="center"> <a href="saschasalles.com" target="blank">saschasalles.com</a></h3>
 
 <p align="left"> <a href="https://twitter.com/sascha_salles" target="blank"><img src="https://img.shields.io/twitter/follow/sascha_salles?logo=twitter&style=for-the-badge" alt="sascha_salles" /></a> </p>
 
@@ -8,8 +9,6 @@
 - 🌱 I’m currently learning **Swift, Objective-C, SwiftUI, UIKit, CoreData, CloudKit, Vapor, SwiftNIO, AVFoundation, ARKit, CoreML**
 
 - 👯 I’m looking to collaborate on [Vapor](https://github.com/vapor/vapor)
-
-- 👨‍💻 All of my projects are available at [https://www.saschasalles.com/projects](https://www.saschasalles.com/projects)
 
 - 📫 How to reach me **sascha.salles@icloud.com**
 
