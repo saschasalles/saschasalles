@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
     <a href="https://twitter.com/sascha_salles" target="blank">
-        <img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" height="40" width="40">
+        <img align="center" src="https://cdn.cdnlogo.com/logos/t/45/twitter.svg" height="40" width="40">
     </a>
     <a href="https://linkedin.com/in/sascha-salles" target="blank">
         <img align="center" src="https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="saschasalles" height="40" width="40">
