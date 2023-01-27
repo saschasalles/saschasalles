@@ -12,8 +12,6 @@
 <p align="left">
 <a href="https://twitter.com/sascha_salles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sascha_salles" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sascha-salles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saschasalles" height="30" width="40" /></a>
-<a href="https://fb.com/sascha.salles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sascha.salles" height="30" width="40" /></a>
-<a href="https://instagram.com/iamsaschasalles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamissaschasalles" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Preferred Technologies</h3>
