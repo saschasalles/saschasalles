@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sascha Salles</h1>
+<h1 align="center">Hi 👋, I'm Sascha</h1>
 <h3 align="center">iOS Engineer 🇫🇷</h3>
 <h3 align="center"> <a href="https://www.saschasalles.com" target="blank">saschasalles.com</a></h3>
 
