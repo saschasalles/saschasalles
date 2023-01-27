@@ -23,32 +23,22 @@
     <a href="https://developer.apple.com/swift/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
     </a>
-    <a href="https://vapor.codes" target="_blank"> 
+    <a
+        href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"
+        target="_blank">
+        <img
+          src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg"
+          alt="objectivec"
+          width="40"
+          height="40"/>
+    </a>
+        <a href="https://vapor.codes" target="_blank"> 
         <img src="https://avatars.githubusercontent.com/u/17364220?s=200&v=4" alt="swift" width="40" height="40"/>
-    </a>  
+    </a> 
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+<h4 align="left">I also like to use...</h4>
 <p align="left">
-    <a href="https://developer.apple.com/swift/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
-      alt="swift"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a
-    href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"
-    target="_blank"
-  >
-    <img
-      src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg"
-      alt="objectivec"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -76,6 +66,14 @@
   <a href="https://opencv.org/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
+      alt="opencv"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://cdn.cdnlogo.com/logos/p/3/python.svg"
       alt="opencv"
       width="40"
       height="40"
