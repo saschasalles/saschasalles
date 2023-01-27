@@ -4,15 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/sascha_salles" target="blank"><img src="https://img.shields.io/twitter/follow/sascha_salles?logo=twitter&style=for-the-badge" alt="sascha_salles" /></a> </p>
 
-- 🔭 I’m currently working on [LabPlatform API](https://github.com/saschasalles/LabPlatformAPI)
+- ❤️ In love with **Swift, Objective-C, SwiftUI, UIKit, CoreData, CloudKit, Vapor, SwiftNIO, AVFoundation, ARKit, CoreML**
 
-- 🌱 I’m currently learning **Swift, Objective-C, SwiftUI, UIKit, CoreData, CloudKit, Vapor, SwiftNIO, AVFoundation, ARKit, CoreML**
-
-- 👯 I’m looking to collaborate on [Vapor](https://github.com/vapor/vapor)
-
-- 📫 How to reach me **sascha.salles@icloud.com**
-
-- ⚡ Fun fact **All my examples files are based on Harry Potter stories ⚡️😛**
+- 📫 Reach me **sascha.salles@icloud.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
