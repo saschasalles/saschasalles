@@ -6,7 +6,7 @@
 
 - ❤️ In love with **Swift, Objective-C, SwiftUI, UIKit, CoreData, CloudKit, Vapor, SwiftNIO, AVFoundation, ARKit, CoreML**
 
-- 📫 Reach me **sascha.salles@icloud.com**
+- 📫 Let's connect **sallessascha@hotmail.fr**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
