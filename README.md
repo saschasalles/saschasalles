@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sascha</h1>
-<h3 align="center">UI Engineer @apple</h3>
+<h3 align="center">UI Engineer <a href="https://www.apple.com/ios" target="blank">@apple </a></h3>
 <h3 align="center"> <a href="https://www.saschasalles.com" target="blank">saschasalles.com</a></h3>
 
 <p align="left"> <a href="https://twitter.com/sascha_salles" target="blank"><img src="https://img.shields.io/twitter/follow/sascha_salles?logo=twitter&style=for-the-badge" alt="sascha_salles" /></a> </p>
